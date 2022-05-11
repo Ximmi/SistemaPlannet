@@ -1,0 +1,6 @@
+.btn-light{
+    border-radius: 20px;
+    border-image: linear-gradient(45deg,cyan,fuchsia) 1;
+    border-style:solid;
+    border-width: 1px;
+}
